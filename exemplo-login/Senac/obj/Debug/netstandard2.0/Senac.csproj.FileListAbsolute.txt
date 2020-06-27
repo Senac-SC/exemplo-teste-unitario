@@ -1,0 +1,8 @@
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\bin\Debug\netstandard2.0\Senac.deps.json
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\bin\Debug\netstandard2.0\Senac.dll
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\bin\Debug\netstandard2.0\Senac.pdb
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\obj\Debug\netstandard2.0\Senac.csprojAssemblyReference.cache
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfoInputs.cache
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\obj\Debug\netstandard2.0\Senac.AssemblyInfo.cs
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\obj\Debug\netstandard2.0\Senac.dll
+C:\Users\july_\OneDrive\Área de Trabalho\aulas\senac\qts\exemplo-unitario\Senac\obj\Debug\netstandard2.0\Senac.pdb
